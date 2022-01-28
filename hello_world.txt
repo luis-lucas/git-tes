@@ -1,0 +1,1 @@
+hello I'm starting the odin project hoping to be a good web developer
